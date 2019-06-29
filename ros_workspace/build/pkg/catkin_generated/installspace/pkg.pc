@@ -1,8 +1,0 @@
-prefix=/home/vinayak/ros_workspace/install
-
-Name: pkg
-Description: Description of pkg
-Version: 0.0.0
-Cflags: -I/home/vinayak/ros_workspace/install/include
-Libs: -L/home/vinayak/ros_workspace/install/lib 
-Requires: 
