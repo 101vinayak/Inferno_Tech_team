@@ -1,0 +1,2 @@
+cv_camera:image_common/camera_calibration_parsers:image_common/camera_info_manager:image_common/image_common:image_common/image_transport:image_common/polled_camera:pkg:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
+-DCATKIN_DEVEL_PREFIX=/home/vinayak/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/vinayak/ros_workspace/install -G Unix Makefiles

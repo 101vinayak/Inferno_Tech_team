@@ -1,0 +1,8 @@
+prefix=/home/vinayak/ros_workspace/devel
+
+Name: pkg
+Description: Description of pkg
+Version: 0.0.0
+Cflags: -I/home/vinayak/ros_workspace/devel/include
+Libs: -L/home/vinayak/ros_workspace/devel/lib 
+Requires: 
